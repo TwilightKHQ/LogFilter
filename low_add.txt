@@ -1,0 +1,399 @@
+12-30 16:24:13.284   638   647 D vold    : Remounting 2000 as mode none
+12-30 16:24:13.312   638   647 D vold    : Found matching PID 933
+12-30 16:24:13.312   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.312   638   647 D vold    : Found matching PID 995
+12-30 16:24:13.312   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.314   975  1688 I chatty  : uid=1000(system) VoldConnector expire 23 lines
+12-30 16:24:13.315   975   975 I chatty  : uid=1000 system_server expire 205 lines
+12-30 16:24:13.316   638   647 D vold    : Remounting 2000 as mode none
+12-30 16:24:13.331   638   647 D vold    : Found matching PID 933
+12-30 16:24:13.331   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.331   638   647 D vold    : Found matching PID 995
+12-30 16:24:13.331   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.334   638   647 D vold    : Remounting 1001 as mode none
+12-30 16:24:13.351   638   647 D vold    : Found matching PID 1316
+12-30 16:24:13.351   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.353   638   647 D vold    : Remounting 1001 as mode none
+12-30 16:24:13.369   638   647 D vold    : Found matching PID 1316
+12-30 16:24:13.369   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.371   638   647 D vold    : Remounting 1000 as mode none
+12-30 16:24:13.385   638   647 D vold    : Found matching PID 589
+12-30 16:24:13.385   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.385   638   647 D vold    : Found matching PID 590
+12-30 16:24:13.385   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.385   638   647 D vold    : Found matching PID 592
+12-30 16:24:13.385   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.385   638   647 D vold    : Found matching PID 593
+12-30 16:24:13.385   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.385   638   647 D vold    : Found matching PID 622
+12-30 16:24:13.385   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.385   638   647 D vold    : Found matching PID 636
+12-30 16:24:13.385   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.385   638   647 D vold    : Found matching PID 637
+12-30 16:24:13.386   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.386   638   647 D vold    : Found matching PID 835
+12-30 16:24:13.386   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.386   638   647 D vold    : Found matching PID 840
+12-30 16:24:13.386   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.386   638   647 D vold    : Found matching PID 842
+12-30 16:24:13.386   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.386   638   647 D vold    : Found matching PID 843
+12-30 16:24:13.387   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.387   638   647 D vold    : Found matching PID 844
+12-30 16:24:13.387   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.387   638   647 D vold    : Found matching PID 845
+12-30 16:24:13.387   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.387   638   647 D vold    : Found matching PID 846
+12-30 16:24:13.387   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.387   638   647 D vold    : Found matching PID 847
+12-30 16:24:13.387   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.387   638   647 D vold    : Found matching PID 848
+12-30 16:24:13.387   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.387   638   647 D vold    : Found matching PID 849
+12-30 16:24:13.387   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.387   638   647 D vold    : Found matching PID 851
+12-30 16:24:13.387   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.387   638   647 D vold    : Found matching PID 853
+12-30 16:24:13.387   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.387   638   647 D vold    : Found matching PID 854
+12-30 16:24:13.387   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.388   638   647 D vold    : Found matching PID 856
+12-30 16:24:13.388   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.388   638   647 D vold    : Found matching PID 857
+12-30 16:24:13.388   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.388   638   647 D vold    : Found matching PID 859
+12-30 16:24:13.388   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.388   638   647 D vold    : Found matching PID 860
+12-30 16:24:13.388   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.388   638   647 D vold    : Found matching PID 861
+12-30 16:24:13.388   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.388   638   647 D vold    : Found matching PID 869
+12-30 16:24:13.388   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.388   638   647 D vold    : Found matching PID 870
+12-30 16:24:13.388   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.388   638   647 D vold    : Found matching PID 873
+12-30 16:24:13.388   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.389   638   647 D vold    : Found matching PID 975
+12-30 16:24:13.393   638   647 D vold    : Found matching PID 996
+12-30 16:24:13.393   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.393   638   647 D vold    : Found matching PID 997
+12-30 16:24:13.393   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.393   638   647 D vold    : Found matching PID 1000
+12-30 16:24:13.394   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.394   638   647 D vold    : Found matching PID 1001
+12-30 16:24:13.394   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.394   638   647 D vold    : Found matching PID 1002
+12-30 16:24:13.394   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.394   638   647 D vold    : Found matching PID 1003
+12-30 16:24:13.394   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.394   638   647 D vold    : Found matching PID 1006
+12-30 16:24:13.394   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.394   638   647 D vold    : Found matching PID 1009
+12-30 16:24:13.394   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.394   638   647 D vold    : Found matching PID 1099
+12-30 16:24:13.395   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.395   638   647 D vold    : Found matching PID 1118
+12-30 16:24:13.395   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.395   638   647 D vold    : Found matching PID 1134
+12-30 16:24:13.395   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.395   638   647 D vold    : Found matching PID 1136
+12-30 16:24:13.395   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.395   638   647 D vold    : Found matching PID 1153
+12-30 16:24:13.395   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.395   638   647 D vold    : Found matching PID 1159
+12-30 16:24:13.395   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.395   638   647 D vold    : Found matching PID 1222
+12-30 16:24:13.395   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.396   638   647 D vold    : Found matching PID 1224
+12-30 16:24:13.396   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.396   638   647 D vold    : Found matching PID 1238
+12-30 16:24:13.396   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.396   638   647 D vold    : Found matching PID 1240
+12-30 16:24:13.396   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.398   638   647 D vold    : Remounting 1000 as mode none
+12-30 16:24:13.411   638   647 D vold    : Found matching PID 589
+12-30 16:24:13.412   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.412   638   647 D vold    : Found matching PID 590
+12-30 16:24:13.412   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.412   638   647 D vold    : Found matching PID 592
+12-30 16:24:13.412   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.412   638   647 D vold    : Found matching PID 593
+12-30 16:24:13.412   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.412   638   647 D vold    : Found matching PID 622
+12-30 16:24:13.412   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.412   638   647 D vold    : Found matching PID 636
+12-30 16:24:13.412   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.412   638   647 D vold    : Found matching PID 637
+12-30 16:24:13.412   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.412   638   647 D vold    : Found matching PID 835
+12-30 16:24:13.413   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.413   638   647 D vold    : Found matching PID 840
+12-30 16:24:13.413   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.413   638   647 D vold    : Found matching PID 842
+12-30 16:24:13.413   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.413   638   647 D vold    : Found matching PID 843
+12-30 16:24:13.413   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.413   638   647 D vold    : Found matching PID 844
+12-30 16:24:13.413   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.413   638   647 D vold    : Found matching PID 845
+12-30 16:24:13.413   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.413   638   647 D vold    : Found matching PID 846
+12-30 16:24:13.413   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.413   638   647 D vold    : Found matching PID 847
+12-30 16:24:13.413   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.413   638   647 D vold    : Found matching PID 848
+12-30 16:24:13.413   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.413   638   647 D vold    : Found matching PID 849
+12-30 16:24:13.413   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.413   638   647 D vold    : Found matching PID 851
+12-30 16:24:13.413   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.413   638   647 D vold    : Found matching PID 853
+12-30 16:24:13.413   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.413   638   647 D vold    : Found matching PID 854
+12-30 16:24:13.413   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.413   638   647 D vold    : Found matching PID 856
+12-30 16:24:13.414   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.414   638   647 D vold    : Found matching PID 857
+12-30 16:24:13.414   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.414   638   647 D vold    : Found matching PID 859
+12-30 16:24:13.414   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.414   638   647 D vold    : Found matching PID 860
+12-30 16:24:13.414   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.414   638   647 D vold    : Found matching PID 861
+12-30 16:24:13.414   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.414   638   647 D vold    : Found matching PID 869
+12-30 16:24:13.414   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.414   638   647 D vold    : Found matching PID 870
+12-30 16:24:13.414   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.414   638   647 D vold    : Found matching PID 873
+12-30 16:24:13.414   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.414   638   647 D vold    : Found matching PID 975
+12-30 16:24:13.419   638   647 D vold    : Found matching PID 996
+12-30 16:24:13.419   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.419   638   647 D vold    : Found matching PID 997
+12-30 16:24:13.419   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.419   638   647 D vold    : Found matching PID 1000
+12-30 16:24:13.419   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.419   638   647 D vold    : Found matching PID 1001
+12-30 16:24:13.419   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.419   638   647 D vold    : Found matching PID 1002
+12-30 16:24:13.419   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.419   638   647 D vold    : Found matching PID 1003
+12-30 16:24:13.419   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.419   638   647 D vold    : Found matching PID 1006
+12-30 16:24:13.419   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.419   638   647 D vold    : Found matching PID 1009
+12-30 16:24:13.419   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.420   638   647 D vold    : Found matching PID 1099
+12-30 16:24:13.420   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.420   638   647 D vold    : Found matching PID 1118
+12-30 16:24:13.420   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.420   638   647 D vold    : Found matching PID 1134
+12-30 16:24:13.420   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.420   638   647 D vold    : Found matching PID 1136
+12-30 16:24:13.420   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.420   638   647 D vold    : Found matching PID 1153
+12-30 16:24:13.420   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.420   638   647 D vold    : Found matching PID 1159
+12-30 16:24:13.420   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.420   638   647 D vold    : Found matching PID 1222
+12-30 16:24:13.420   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.420   638   647 D vold    : Found matching PID 1224
+12-30 16:24:13.420   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.420   638   647 D vold    : Found matching PID 1238
+12-30 16:24:13.420   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.420   638   647 D vold    : Found matching PID 1240
+12-30 16:24:13.421   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.424   638   647 D vold    : Remounting 1002 as mode none
+12-30 16:24:13.438   638   647 D vold    : Found matching PID 837
+12-30 16:24:13.438   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.442   638   647 D vold    : Remounting 1002 as mode none
+12-30 16:24:13.456   638   647 D vold    : Found matching PID 837
+12-30 16:24:13.456   638   647 W vold    : Skipping due to root namespace
+12-30 16:24:13.468   638   647 D vold    : Remounting 10026 as mode none
+12-30 16:24:13.486   638   647 D vold    : Remounting 10026 as mode none
+12-30 16:24:13.678   638   647 D vold    : Remounting 10021 as mode none
+12-30 16:24:13.696   638   647 D vold    : Remounting 10023 as mode none
+12-30 16:24:13.715   638   647 D vold    : Remounting 10023 as mode none
+12-30 16:24:13.733   638   647 D vold    : Remounting 10011 as mode none
+12-30 16:24:13.751   638   647 D vold    : Remounting 10011 as mode none
+12-30 16:24:13.769   638   647 D vold    : Remounting 10013 as mode none
+12-30 16:24:13.788   638   647 D vold    : Remounting 10013 as mode none
+12-30 16:24:13.807   638   647 D vold    : Remounting 10005 as mode none
+12-30 16:24:13.825   638   647 D vold    : Remounting 10005 as mode none
+12-30 16:24:13.849   638   647 D vold    : Remounting 10024 as mode none
+12-30 16:24:13.867   638   647 D vold    : Remounting 10024 as mode none
+12-30 16:24:13.886   638   647 D vold    : Remounting 10025 as mode none
+12-30 16:24:13.905   638   647 D vold    : Remounting 10025 as mode none
+12-30 16:24:13.940   975  1459 I chatty  : uid=1000(system) android.io expire 11 lines
+12-30 16:24:13.982   975  1687 I chatty  : uid=1000(system) StorageManagerS expire 7 lines
+12-30 16:24:13.983   638   648 D vold    : e4crypt_unlock_user_key 0 serial=0 token_present=0
+12-30 16:24:13.983   638   648 E vold    : Failed to chmod /data/system_ce/0: No such file or directory
+12-30 16:24:13.983   638   648 E vold    : Failed to chmod /data/misc_ce/0: No such file or directory
+12-30 16:24:13.983   638   648 E vold    : Failed to chmod /data/media/0: No such file or directory
+12-30 16:24:13.983   975  1689 I chatty  : uid=1000(system) CryptdConnector expire 2 lines
+12-30 16:24:13.985   975  1688 I chatty  : uid=1000(system) VoldConnector expire 12 lines
+12-30 16:24:13.987   975  1458 I chatty  : uid=1000(system) android.fg expire 5 lines
+12-30 16:24:13.988   975  1424 I chatty  : uid=1000(system) ActivityManager expire 5 lines
+12-30 16:24:13.990   638   647 V vold    : Waiting for FUSE to spin up...
+12-30 16:24:14.032   975  2705 I chatty  : uid=1000(system) AudioService expire 1 line
+12-30 16:24:14.037   975  1683 I chatty  : uid=1000(system) HwBinder:975_3 expire 1 line
+12-30 16:24:14.042   975  1406 I chatty  : uid=1000 system_server expire 6 lines
+12-30 16:24:14.143   975  1430 I chatty  : uid=1000(system) batterystats-wo expire 2 lines
+12-30 16:24:14.157   975  2688 I chatty  : uid=1000(system) NetworkPolicy expire 1 line
+12-30 16:24:14.212  2758  2758 D SystemUIBootTiming: StartServicesDependency took to complete: 4ms
+12-30 16:24:14.234  2758  2758 D SystemUIBootTiming: StartServicesNotificationChannels took to complete: 22ms
+12-30 16:24:14.235  2758  2758 D SystemUIBootTiming: StartServicesCommandQueueStart took to complete: 0ms
+12-30 16:24:14.266  2735  2814 E ActivityThread: Failed to find provider info for user_dictionary
+12-30 16:24:14.322  2758  2758 D SystemUIBootTiming: StartServicesKeyguardViewMediator took to complete: 87ms
+12-30 16:24:14.464   975  1425 I chatty  : uid=1000(system) android.ui expire 1 line
+12-30 16:24:14.468   975  1416 I chatty  : uid=1000(system) android.bg expire 3 lines
+12-30 16:24:14.491  2758  2758 D SystemUIBootTiming: StartServicesRecents took to complete: 169ms
+12-30 16:24:14.509   975  1030 I chatty  : uid=1000(system) Binder:975_2 expire 4 lines
+12-30 16:24:14.560   975  2909 I chatty  : uid=1000(system) Binder:975_9 expire 4 lines
+12-30 16:24:14.684  2758  2758 D SystemUIBootTiming: StartServicesVolumeUI took to complete: 193ms
+12-30 16:24:14.715  2758  2758 D SystemUIBootTiming: StartServicesDivider took to complete: 31ms
+12-30 16:24:15.058  2758  2988 E ActivityThread: Failed to find provider info for com.android.contacts
+12-30 16:24:15.059  2758  2758 D SystemUIBootTiming: StartServicesSystemBars took to complete: 344ms
+12-30 16:24:15.068  2758  2758 D SystemUIBootTiming: StartServicesStorageNotification took to complete: 9ms
+12-30 16:24:15.073   975  2805 I chatty  : uid=1000(system) Binder:975_5 expire 1 line
+12-30 16:24:15.074  2758  2758 D SystemUIBootTiming: StartServicesPowerUI took to complete: 6ms
+12-30 16:24:15.076  2758  2758 D SystemUIBootTiming: StartServicesRingtonePlayer took to complete: 2ms
+12-30 16:24:15.077  2758  2758 D SystemUIBootTiming: StartServicesKeyboardUI took to complete: 1ms
+12-30 16:24:15.089  2758  2758 D SystemUIBootTiming: StartServicesPipUI took to complete: 12ms
+12-30 16:24:15.090  2758  2758 D SystemUIBootTiming: StartServicesShortcutKeyDispatcher took to complete: 1ms
+12-30 16:24:15.090  2758  2758 D SystemUIBootTiming: StartServicesVendorServices took to complete: 0ms
+12-30 16:24:15.091  2758  2758 D SystemUIBootTiming: StartServicesService took to complete: 1ms
+12-30 16:24:15.092  2758  2758 D SystemUIBootTiming: StartServicesLatencyTester took to complete: 1ms
+12-30 16:24:15.110  2758  2758 D SystemUIBootTiming: StartServicesGlobalActionsComponent took to complete: 18ms
+12-30 16:24:15.111  2758  2758 D SystemUIBootTiming: StartServicesRoundedCorners took to complete: 0ms
+12-30 16:24:15.111  2758  2758 D SystemUIBootTiming: StartServices took to complete: 903ms
+12-30 16:24:15.136  2758  3003 E ActivityThread: Failed to find provider info for com.android.contacts
+12-30 16:24:15.193   638  2684 I vold    : Trimmed 49795739648 bytes on /data in 2842ms
+12-30 16:24:15.218  2758  3037 E ActivityThread: Failed to find provider info for com.android.contacts
+12-30 16:24:15.232  2758  2991 E ActivityThread: Failed to find provider info for com.android.contacts
+12-30 16:24:15.276   975  3093 I chatty  : uid=1000(system) BluetoothRouteM expire 1 line
+12-30 16:24:15.284   975  3096 I chatty  : uid=1000(system) uteStateMachine expire 1 line
+12-30 16:24:15.288   975  3097 I chatty  : uid=1000(system) CallAudioModeSt expire 1 line
+12-30 16:24:15.336   975  2690 I chatty  : uid=1000(system) WifiService expire 1 line
+12-30 16:24:15.363   975  2703 I chatty  : uid=1000(system) onProviders.ECP expire 2 lines
+12-30 16:24:15.448   975  2751 I chatty  : uid=1000(system) Binder:975_3 expire 1 line
+12-30 16:24:15.807   975  1460 I chatty  : uid=1000(system) android.display expire 19 lines
+12-30 16:24:16.101   638   648 D vold    : e4crypt_prepare_user_storage for volume null, user 0, serial 0, flags 2
+12-30 16:24:16.101   638   648 D vold    : Preparing: /data/system_ce/0
+12-30 16:24:16.102   638   648 D vold    : Preparing: /data/misc_ce/0
+12-30 16:24:16.103   638   648 D vold    : Preparing: /data/media/0
+12-30 16:24:16.103   638   648 D vold    : Preparing: /data/data
+12-30 16:24:17.458   975  1424 I chatty  : uid=1000(system) ActivityManager expire 27 lines
+12-30 16:24:17.463   975  2697 I chatty  : uid=1000(system) ConnectivitySer expire 4 lines
+12-30 16:24:17.466   975  1459 I chatty  : uid=1000(system) android.io expire 6 lines
+12-30 16:24:17.471   638   647 D vold    : Linking /storage/emulated/0 to /mnt/user/0/primary
+12-30 16:24:17.473   975  1688 I chatty  : uid=1000(system) VoldConnector expire 6 lines
+12-30 16:24:17.484   975  1687 I chatty  : uid=1000(system) StorageManagerS expire 1 line
+12-30 16:24:17.543   975   975 I chatty  : uid=1000 system_server expire 30 lines
+12-30 16:24:17.653   975  2805 I chatty  : uid=1000(system) Binder:975_5 expire 14 lines
+12-30 16:24:17.676   975  1425 I chatty  : uid=1000(system) android.ui expire 11 lines
+12-30 16:24:17.690   975  3265 I chatty  : uid=1000(system) backup expire 2 lines
+12-30 16:24:17.840   975  3310 I chatty  : uid=1000(system) Binder:975_B expire 1 line
+12-30 16:24:17.892   975  1458 I chatty  : uid=1000(system) android.fg expire 3 lines
+12-30 16:24:18.021   975  1416 I chatty  : uid=1000(system) android.bg expire 13 lines
+12-30 16:24:18.185   975  1030 I chatty  : uid=1000(system) Binder:975_2 expire 1 line
+12-30 16:24:18.220   975  2804 I chatty  : uid=1000(system) Binder:975_4 expire 2 lines
+12-30 16:24:18.268   975  3464 I chatty  : uid=1000(system) Binder:975_D expire 1 line
+12-30 16:24:18.283   975  1661 I chatty  : uid=1000(system) android.anim expire 1 line
+12-30 16:24:18.354   975  3472 I chatty  : uid=1000(system) Binder:975_F expire 14 lines
+12-30 16:24:18.369   975  2751 I chatty  : uid=1000(system) Binder:975_3 expire 12 lines
+12-30 16:24:18.489   975  2882 I chatty  : uid=1000(system) Binder:975_6 expire 12 lines
+12-30 16:24:18.704  2854  2854 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 android.content.ContextWrapper.startService:650 com.qualcomm.qti.uceShimService.RCSReceiver.onReceive:41 android.app.ActivityThread.handleReceiver:3219 
+12-30 16:24:18.733   975  3433 I chatty  : uid=1000(system) Binder:975_C expire 25 lines
+12-30 16:24:18.888  2888  2888 I TelecomFramework: TtyManager: updateUiTtyMode -1 -> 0
+12-30 16:24:19.135   975  3669 I chatty  : uid=1000(system) IzatProvider expire 1 line
+12-30 16:24:19.666  2888  2888 I TelecomFramework: AccountEntry: Registered phoneAccount: [[ ] PhoneAccount: ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [e0184adedf913b076626646d3f52c3b49c39ad6d], UserHandle{0} Capabilities: CallProvider EmergOnly MultiUser PlaceEmerg SimSub  Audio Routes: BESW Schemes: tel voicemail  Extras: Bundle[{android.telecom.extra.SUPPORTS_VIDEO_CALLING_FALLBACK=false}] GroupId: [da39a3ee5e6b4b0d3255bfef95601890afd80709]] with handle: ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [e0184adedf913b076626646d3f52c3b49c39ad6d], UserHandle{0}
+12-30 16:24:19.666  2888  2888 I TelecomFramework: PstnIncomingCallNotifier: Registering: Handler (com.qualcomm.qti.internal.telephony.QtiGsmCdmaPhone) {38d239d}
+12-30 16:24:19.713  2888  2888 I TelecomFramework: PstnPhoneCapabilitiesNotifier: handleVideoCapabilitesChanged. Video capability - false
+12-30 16:24:20.063   975  2884 I chatty  : uid=1000(system) Binder:975_7 expire 16 lines
+12-30 16:24:20.193  3803  3803 E ActivityThread: Failed to find provider info for com.android.email.provider
+12-30 16:24:20.338   975  1457 I chatty  : uid=1000(system) FileObserver expire 2 lines
+12-30 16:24:20.379  3788  3788 E ActivityThread: Failed to find provider info for com.tencent.mm.coolassist.debugprovider
+12-30 16:24:21.880  3904  3904 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 com.example.newlauncher.NewLauncher.onCreate:61 android.app.Activity.performCreate:7023 android.app.Activity.performCreate:7014 
+12-30 16:24:25.011  3617  3617 I MediaUpgradeReceiver: ---> Start upgrade of media database external.db
+12-30 16:24:25.040  3617  3617 I MediaUpgradeReceiver: <--- Finished upgrade of media database external.db in 29ms
+12-30 16:24:25.391   975  2718 I chatty  : uid=1000(system) LazyTaskWriterT expire 1 line
+12-30 16:24:25.873  2952  2952 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startActivity:854 android.content.ContextWrapper.startActivity:372 android.content.ContextWrapper.startActivity:372 com.android.ringoff.service.RingOffReceiver.onReceive:16 android.app.ActivityThread.handleReceiver:3219 
+12-30 16:24:25.873  2952  2952 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startActivity:866 android.app.ContextImpl.startActivity:855 android.content.ContextWrapper.startActivity:372 android.content.ContextWrapper.startActivity:372 com.android.ringoff.service.RingOffReceiver.onReceive:16 
+12-30 16:24:25.884   975  4183 I chatty  : uid=1000 system_server expire 5 lines
+12-30 16:24:25.922  2952  2952 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 com.android.ringoff.service.StartServiceActivity.onCreate:34 android.app.Activity.performCreate:7023 android.app.Activity.performCreate:7014 
+12-30 16:24:25.932  2854  2854 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 android.content.ContextWrapper.startService:650 com.qti.dpmserviceapp.DpmServiceAppReceiver.onReceive:33 android.app.ActivityThread.handleReceiver:3219 
+12-30 16:24:25.985  3374  3374 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 android.content.ContextWrapper.startService:650 com.qualcomm.qti.services.secureui.BootReceiver.onReceive:30 android.app.ActivityThread.handleReceiver:3219 
+12-30 16:24:26.085  4208  4208 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 android.content.ContextWrapper.startService:650 com.qualcomm.cabl.CABLReceiver.onReceive:33 android.app.ActivityThread.handleReceiver:3219 
+12-30 16:24:26.101  4208  4208 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 android.content.ContextWrapper.startService:650 com.qualcomm.svi.SVIReceiver.onReceive:33 android.app.ActivityThread.handleReceiver:3219 
+12-30 16:24:26.169  4229  4229 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 android.content.ContextWrapper.startService:650 com.qti.diagservices.Diag_OnBoot.onReceive:47 android.app.ActivityThread.handleReceiver:3219 
+12-30 16:24:26.650  4300  4315 E ActivityThread: Failed to find provider info for com.android.launcher2.settings
+12-30 16:24:26.748   975  3476 I chatty  : uid=1000(system) Binder:975_10 expire 28 lines
+12-30 16:24:27.031   975  2909 I chatty  : uid=1000(system) Binder:975_9 expire 4 lines
+12-30 16:24:27.082  2854  4192 W ActivityThread: ClassLoader.loadClass: The class loader returned by Thread.getContextClassLoader() may fail for processes that host multiple applications. You should explicitly specify a context class loader. For example: Thread.setContextClassLoader(getClass().getClassLoader());
+12-30 16:24:27.121  4365  4381 D ActivityThread: Loading provider com.baidu.appsearch.permissiongranter.PermissionRequestorContentProvider: com.baidu.appsearch.permissiongranter.PermissionRequestorContentProvider
+12-30 16:24:27.947  4459  4490 D ActivityThread: Loading provider com.baidu.appsearch.permissiongranter.PermissionRequestorContentProvider: com.baidu.appsearch.permissiongranter.PermissionRequestorContentProvider
+12-30 16:24:28.227   975   975 I chatty  : uid=1000 system_server expire 1 line
+12-30 16:24:28.340  4538  4538 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 android.content.ContextWrapper.startService:650 com.qualcomm.atfwd.AtFwdAutoboot.onReceive:24 android.app.ActivityThread.handleReceiver:3219 
+12-30 16:24:28.559   975  1424 I chatty  : uid=1000(system) ActivityManager expire 1 line
+12-30 16:24:28.618  4593  4593 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1556 android.content.ContextWrapper.bindService:684 com.qualcomm.qti.callenhancement.BinderTelecomCallService.bindService:46 com.qualcomm.qti.callenhancement.BinderTelecomCallService.-wrap0:0 com.qualcomm.qti.callenhancement.BinderTelecomCallService$BinderTarget.bind:33 
+12-30 16:24:28.624  4593  4593 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1556 android.content.ContextWrapper.bindService:684 com.qualcomm.qti.callenhancement.BinderTelecomCallService.bindService:46 com.qualcomm.qti.callenhancement.BinderTelecomCallService.-wrap0:0 com.qualcomm.qti.callenhancement.BinderTelecomCallService$BinderTarget.bind:33 
+12-30 16:24:28.631  4593  4593 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 android.content.ContextWrapper.startService:650 com.qualcomm.qti.callenhancement.BootCompletedReceiver.onReceive:18 android.app.ActivityThread.handleReceiver:3219 
+12-30 16:24:28.634  4593  4593 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1556 android.content.ContextWrapper.bindService:684 com.qualcomm.qti.callenhancement.BinderTelecomCallService.bindService:46 com.qualcomm.qti.callenhancement.BinderTelecomCallService.-wrap0:0 com.qualcomm.qti.callenhancement.BinderTelecomCallService$BinderTarget.bind:33 
+12-30 16:24:28.648   975  3472 I chatty  : uid=1000(system) Binder:975_F expire 14 lines
+12-30 16:24:28.650  4593  4593 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1556 android.content.ContextWrapper.bindService:684 com.qualcomm.qti.callenhancement.BinderTelecomCallService.bindService:46 com.qualcomm.qti.callenhancement.BinderTelecomCallService.-wrap0:0 com.qualcomm.qti.callenhancement.BinderTelecomCallService$BinderTarget.bind:33 
+12-30 16:24:28.860  4643  4643 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 com.qualcomm.qcrilhook.QcRilHook.<init>:114 com.qualcomm.qti.modemtestmode.MbnAppGlobals.onCreate:32 android.app.Instrumentation.callApplicationOnCreate:1120 
+12-30 16:24:28.862  4643  4643 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1556 android.content.ContextWrapper.bindService:684 com.qualcomm.qcrilhook.QcRilHook.<init>:116 com.qualcomm.qti.modemtestmode.MbnAppGlobals.onCreate:32 android.app.Instrumentation.callApplicationOnCreate:1120 
+12-30 16:24:28.873  4643  4643 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 android.content.ContextWrapper.startService:650 com.qualcomm.qti.modemtestmode.DefaultReceiver.onReceive:36 android.app.ActivityThread.handleReceiver:3219 
+12-30 16:24:28.877  4643  4643 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1556 android.content.ContextWrapper.bindService:684 com.qualcomm.qti.modemtestmode.MbnSystemService.onCreate:101 android.app.ActivityThread.handleCreateService:3371 android.app.ActivityThread.-wrap4:0 
+12-30 16:24:29.015  4660  4660 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 android.content.ContextWrapper.startService:650 com.qualcomm.qti.qdma.app.BootReceiver.onBootReceived:66 com.qualcomm.qti.innodme.InnoBootReceiver.onReceive:22 
+12-30 16:24:29.025   975  2909 I chatty  : uid=1000(system) Binder:975_9 expire 13 lines
+12-30 16:24:29.070  4660  4681 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 com.qualcomm.qti.qdma.util.PeriodicCI.run:374 com.qualcomm.qti.qdma.util.PeriodicCI.start:305 com.qualcomm.qti.qdma.app.ActiveCareService$ProcessSessionRequest.run:669 
+12-30 16:24:29.086  4660  4683 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 com.qualcomm.qti.qdma.app.ApplicationManager.startQDMATransferService:3660 com.qualcomm.qti.qdma.app.ActiveCareService$ProcessSessionRequest.run:583 java.lang.Thread.run:764 
+12-30 16:24:29.240   852   852 I android.hardware.wifi@1.0-service: Wifi HAL started
+12-30 16:24:29.496  1072  1072 I wificond: create scanner for interface with index: 5
+12-30 16:24:29.497  1072  1072 I wificond: subscribe scan result for interface with index: 5
+12-30 16:24:29.499  1072  1072 E wificond: No Offload Service available
+12-30 16:24:29.500  1072  1072 I wificond: Offload HAL not supported 
+12-30 16:24:29.975  3904  3904 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:966 android.content.ContextWrapper.sendBroadcast:437 android.content.ContextWrapper.sendBroadcast:437 android.view.ViewRootImpl.enqueueInputEvent:6631 android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent:6797 
+12-30 16:24:30.139  1072  1072 I wificond: Enters wifigbk_ageOutHistory
+12-30 16:24:30.139  1072  1072 I wificond: Enters wifigbk_ageOutHistory
+12-30 16:24:30.184   975  1673 I chatty  : uid=1000(system) AlarmManager expire 1 line
+12-30 16:24:31.004  4699  4699 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.stopService:1488 android.content.ContextWrapper.stopService:660 com.dtinfo.tools.info.FoHandler.handleMessage:278 android.os.Handler.dispatchMessage:106 android.os.Looper.loop:164 
+12-30 16:24:32.509   975  2804 I chatty  : uid=1000(system) Binder:975_4 expire 2 lines
+12-30 16:24:33.151  3904  3904 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:966 android.content.ContextWrapper.sendBroadcast:437 android.content.ContextWrapper.sendBroadcast:437 android.view.ViewRootImpl.enqueueInputEvent:6631 android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent:6797 
+12-30 16:24:35.187   975  1416 I chatty  : uid=1000(system) android.bg expire 5 lines
+12-30 16:24:35.319   975   975 I chatty  : uid=1000 system_server expire 11 lines
+12-30 16:24:36.413   975  2690 I chatty  : uid=1000(system) WifiService expire 5 lines
+12-30 16:24:36.604  1072  1072 W wificond: Scan is not started. Ignore abort request
+12-30 16:24:38.944  1072  1072 I wificond: Enters wifigbk_ageOutHistory
+12-30 16:24:39.022   975  2691 I chatty  : uid=1000(system) WifiStateMachin expire 1 line
+12-30 16:24:39.023   975  2697 I chatty  : uid=1000(system) ConnectivitySer expire 7 lines
+12-30 16:24:41.172   975  1424 I chatty  : uid=1000(system) ActivityManager expire 25 lines
+12-30 16:24:41.513   653   669 E NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'INTERFACE' not found
+12-30 16:24:41.513   653   669 E NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'STATE' not found
+12-30 16:24:41.513   653   669 E NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'TIME_NS' not found
+12-30 16:24:41.513   653   669 E NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'UID' not found
+12-30 16:24:41.591   975  1458 I chatty  : uid=1000(system) android.fg expire 4 lines
+12-30 16:24:41.592   975  1684 I chatty  : uid=1000(system) InputDispatcher expire 6 lines
+12-30 16:24:41.621  4660  4660 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 com.qualcomm.qti.qdma.util.PeriodicCI.run:374 com.qualcomm.qti.qdma.util.PeriodicCI.checkRun:338 com.qualcomm.qti.qdma.util.PeriodicCI$1.onReceive:110 
+12-30 16:24:41.771   975  2908 I chatty  : uid=1000(system) Binder:975_8 expire 24 lines
+12-30 16:24:41.824   975  2882 I chatty  : uid=1000(system) Binder:975_6 expire 13 lines
+12-30 16:24:41.969  4815  4815 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 android.content.ContextWrapper.startService:650 com.qualcomm.qti.smcinvokepkgmgr.SmcInvokeBroadcastReceiver.onReceive:22 android.app.ActivityThread.handleReceiver:3219 
+12-30 16:24:42.253  4839  4839 E ActivityThread: Failed to find provider info for com.tencent.mm.coolassist.debugprovider
+12-30 16:24:43.052   975  2884 I chatty  : uid=1000(system) Binder:975_7 expire 9 lines
+12-30 16:24:43.347  2854  2854 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 android.content.ContextWrapper.startService:650 com.qualcomm.qti.uceShimService.RCSReceiver.onReceive:41 android.app.ActivityThread.handleReceiver:3219 
+12-30 16:24:43.977  4974  4974 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startActivity:854 android.content.ContextWrapper.startActivity:372 android.content.ContextWrapper.startActivity:372 com.uton.mining.receiver.MyReceiver.onReceive:36 android.app.ActivityThread.handleReceiver:3219 
+12-30 16:24:43.977  4974  4974 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startActivity:866 android.app.ContextImpl.startActivity:855 android.content.ContextWrapper.startActivity:372 android.content.ContextWrapper.startActivity:372 com.uton.mining.receiver.MyReceiver.onReceive:36 
+12-30 16:24:44.167   975  2805 I chatty  : uid=1000(system) Binder:975_5 expire 28 lines
+12-30 16:24:44.224  4974  4974 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 com.uton.mining.MainActivity.onCreate:32 android.app.Activity.performCreate:7023 android.app.Activity.performCreate:7014 
+12-30 16:24:44.303   975  1459 I chatty  : uid=1000(system) android.io expire 3 lines
+12-30 16:24:44.573   975  1030 I chatty  : uid=1000(system) Binder:975_2 expire 4 lines
+12-30 16:24:45.115  4660  4806 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 com.qualcomm.qti.qdma.dme.DMENativeInterface.devCtl:1530 com.qualcomm.qti.qdma.dme.DMENativeInterface.-wrap0:0 com.qualcomm.qti.qdma.dme.DMENativeInterface$1.devCtl:209 
+12-30 16:24:45.570  4660  4806 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1476 android.content.ContextWrapper.startService:650 com.qualcomm.qti.qdma.app.ApplicationManager.actionSessionFinished:3218 com.qualcomm.qti.qdma.app.ApplicationManager.actionUpdateFinished:2075 com.qualcomm.qti.qdma.app.ApplicationManager.stateChangeActionForFOTA:1265 
+12-30 16:24:46.580   975   975 I chatty  : uid=1000 system_server expire 20 lines
+12-30 16:24:46.803   975  2751 I chatty  : uid=1000(system) Binder:975_3 expire 11 lines
+12-30 16:24:47.039  1072  1072 I wificond: Enters wifigbk_ageOutHistory
+12-30 16:24:47.040  1072  1072 I wificond: Enters wifigbk_ageOutHistory
+12-30 16:24:50.610   975  1688 I chatty  : uid=1000(system) VoldConnector expire 3 lines
